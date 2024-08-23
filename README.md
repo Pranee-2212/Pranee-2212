@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm V.G.PRANEET</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 <img align=right src="https://imgs.search.brave.com/z6eSFNWi8zXPCCCWCsiRsLmBIPN_7mdeLEisus76p5o/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdG9y/aWVzLmZyZWVwaWts/YWJzLmNvbS9zdG9y/YWdlLzI1MjIvMjU3/LVByb2dyYW1taW5n/X0FydGJvYXJkLTEu/c3Zn.svg"width="400px">
 
 
 <p align="left"> <a href="https://twitter.com/praneetvg2212" target="blank"><img src="https://img.shields.io/twitter/follow/praneetvg2212?logo=twitter&style=for-the-badge" alt="praneetvg2212" /></a> </p>
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **Data science**
 
-- ⚡ Fun fact **I'm a genius**
+- ⚡ Fun fact **coffee does not help you it only makes it worse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
