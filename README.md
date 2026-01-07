@@ -67,13 +67,6 @@ I am familiar with and utilize:
 
 ---
 
-### GitHub Status
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranee-2212&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranee-2212&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 👨‍💻 Languages & Tools I Have Placed My Hands On
 
 _This section uses badges to visualize your key skills:_
