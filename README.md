@@ -105,8 +105,3 @@ _This is a focused list that reinforces your core expertise:_
 
 ---
 
-
-
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/57/ca/98/57ca981288bb93099699264eed00dddd.jpg" alt="Aesthetic Background" width="800"/>
-</p>
